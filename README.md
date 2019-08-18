@@ -1,0 +1,2 @@
+# owobot
+some dumb bot
